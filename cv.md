@@ -15,3 +15,5 @@
 
 7. ### Education:
          technological process automation
+8. ### English: 
+         Pre-Intermedia
